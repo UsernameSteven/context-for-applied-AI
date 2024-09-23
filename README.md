@@ -10,3 +10,5 @@ this is the link to the AI I have been using to find all the information on D&D 
 - Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
 - charactor [vairents](https://www.dndbeyond.com/races)
 - rules for [D&D](https://www.dndbeyond.com/sources/dnd/basic-rules-2014) [Beginners](https://www.youtube.com/watch?v=RO2qv5Uin9c)
+- Link added for song to [picture](https://suno.com/song/c0f7677b-96eb-4bf3-9518-ace58ba23585)
+- The following are all added links to their respective pictures: [human] 

@@ -19,3 +19,4 @@ this is the link to the AI I have been using to find all the information on D&D 
 
 - [rescources](https://dnd.wizards.com/resources/educators)
 - [Visual Aids](https://www.youtube.com/watch?v=Elog4vM4CBo)
+- [World Building](https://www.youtube.com/watch?v=91FldxlD4-w) 

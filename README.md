@@ -18,3 +18,4 @@ this is the link to the AI I have been using to find all the information on D&D 
 - [Themes](https://murphysvaultccgs.wordpress.com/2018/04/04/dd-level-up-character-themes/)
 
 - [rescources](https://dnd.wizards.com/resources/educators)
+- [Visual Aids](https://www.youtube.com/watch?v=Elog4vM4CBo)
